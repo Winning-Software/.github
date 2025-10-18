@@ -1,12 +1,12 @@
 name: 🐛 Bug Report
-description: Report a bug or regression
+description: Report a bug or regression issue
 labels: [bug]
 body:
   - type: input
     id: affected-version
     attributes:
       label: Affected Version
-      description: What version of Loom Spinner does this affect?
+      description: What version does this affect?
       placeholder: e.g. 3.0.0
   - type: textarea
     id: description
