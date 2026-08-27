@@ -1,23 +1,10 @@
-<img src="./github-metrics.svg" width="100%" alt="Organisation Stats" />
+Home to some of my open-source packages and developer tools, as well as some private projects I build and maintain.
 
-_Most used language stats above only include code in my **public repos**_
+## Developer Tools
 
-### Building, breaking, and shipping things.
-Welcome to my GitHub space. This is where I house my side projects, experiment with new tech, and maintain a few 
-open-source tools I use in my day-to-day workflow.
+- **Hive** — A highly opinionated Symfony 8 scaffold. Out of the box Hive provides; a full authentication system, Latte templates, Vue JS, Vite, Tailwind, Doctrine, code quality tools, admin panel SPA + more.
+- **Latte Helper** — A helper package for rendering Latte templates in Symfony applications.
 
----
+## Themes + Extensions
 
-## 📦 Open Source
-I keep most of my code public if it’s something I think others might find useful. These are mostly tools I built for 
-myself that I’ve shared with the world:
-
-* [Latte Helper](https://github.com/WinningSoftwareDev/latte-helper) - A package for easily integrating the Latte templating
-  engine in your Symfony apps. Replaces the default Twig templating engine.
-* [Loom Spinner](https://github.com/WinningSoftwareDev/loom-spinner) - A Docker based development environment manager for 
-  Linux. Spins up pre-configured Docker environments on a project-by-project basis, complete with: PHP, MySQL/SQLite, 
-  Nginx, Xdebug, RabbitMQ, clean URL's + HTTPS. My daily dev environment for PHP.
-* [Symfony Base](https://github.com/WinningSoftwareDev/symfony-base) - Generically named Symfony starter template with a 
-  load of my favourite tools pre-configured: auth, Vue.js, Tailwind + Latte templating all out of the box.
-
----
+- **Nightshade** — A deep purple dark theme for VS Code. Available on the Visual Studio Marketplace or Open VSX.
