@@ -14,9 +14,17 @@ A highly opinionated Symfony 8 scaffold, built with all of my favourite tools re
 - Asset pipeline with Vue + Vite, including a custom Latte plugin to watch changes in your Latte templates/PHP files (no Encore).
 - Admin panel SPA (using Vue Router).
 - Thoughtful multi-schema database (I like to run my SQL manually, no Doctrine migrations).
-- Code quality tools configured; PHPStan (strictest), PHP CS Fixer, PHP Unit, ES Lint + Prettier. Includes a pre-built GitHub workflow to run these checks on PR to main.
+- Code quality tools; PHPStan (strictest), PHP CS Fixer, PHP Unit, ES Lint + Prettier. Includes a pre-built GitHub workflow to run these checks on PR to main.
 
 [View Repository](https://github.com/WinningSoftwareDev/hive) | [Packagist](https://packagist.org/packages/winningsoftware/hive)
+
+### MCP Server: Database Assistant
+
+A lightweight PHP based MCP server using PDO to help your AI agents interact with multiple databases. Uses STDIO and runs entirely on your system. Currently available as a global composer package.
+
+[View Repository](https://github.com/WinningSoftwareDev/database-assistant-mcp-server) | [Packagist](https://packagist.org/packages/winningsoftware/database-assistant-mcp-server)
+
+---
 
 ## VS Code Extensions
 
