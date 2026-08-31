@@ -4,14 +4,30 @@ Home to some of my open-source packages and developer tools, as well as some pri
 
 ### **Hive**
 
-A highly opinionated Symfony 8 scaffold. Out of the box Hive provides; a full authentication system, Latte templates, Vue JS, Vite, Tailwind, Doctrine, code quality tools, admin panel SPA + more.
+A highly opinionated Symfony 8 scaffold, built with all of my favourite tools ready to go, as well as none of the ones I don't like. Out of the box Hive provides;
+
+- A full authentication system (including OAuth and GitHub/Google providers by default)
+- Latte templating engine (over Twig)
+- Asset pipeline with Vue + Vite, including a custom Latte plugin to watch changes in your Latte templates/PHP files (for HMR)
+- Thoughtful multi-schema database (I like to run my SQL manually, no Doctrine migrations)
 
 [View Repository](https://github.com/WinningSoftwareDev/hive) | [Packagist](https://packagist.org/packages/winningsoftware/hive)
 
-## Themes + Extensions
+---
 
-### **Nightshade**
+## VS Code Extensions
 
-A deep purple dark theme for VS Code.
+All of my VS Code extensions are also published on Open VSX, so they can be installed in any editor that
+uses the Open VSX repository for extensions (Kiro, Cursor and some others that idk).
+
+### Symfony Console Command Runner
+
+An extension that allows you to view all of your Symfony applications `bin/console` commands in a tree view within VS Code. Hover the commands to display a list of all available options, customise inputs and run the command, with output streamed straight to your terminal.
+
+[View Repository](https://github.com/WinningSoftwareDev/vscode-symfony-console-runner) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.symfony-console-runner) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/symfony-console-runner)
+
+### **Nightshade - Colour Theme**
+
+A deep purple dark colour theme for VS Code.
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-theme-nightshade) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.nightshade-theme) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/nightshade-theme)
