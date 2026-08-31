@@ -13,8 +13,6 @@ A highly opinionated Symfony 8 scaffold, built with all of my favourite tools re
 
 [View Repository](https://github.com/WinningSoftwareDev/hive) | [Packagist](https://packagist.org/packages/winningsoftware/hive)
 
----
-
 ## VS Code Extensions
 
 All of my VS Code extensions are also published on Open VSX, so they can be installed in any editor that
@@ -22,12 +20,14 @@ uses the Open VSX repository for extensions (Kiro, Cursor and some others that i
 
 ### Symfony Console Command Runner
 
-An extension that allows you to view all of your Symfony applications `bin/console` commands in a tree view within VS Code. Hover the commands to display a list of all available options, customise inputs and run the command, with output streamed straight to your terminal.
+An extension that allows you to view all of your Symfony applications `bin/console` commands in a tree view within VS Code. Hover the commands to display a list of all available options, customise inputs and run the command, with output shown straight in your terminal.
+
+Can list and run commands locally (default) or using your Docker containers. Configurable per project in `./vscode/settings.json`.
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-symfony-console-runner) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.symfony-console-runner) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/symfony-console-runner)
 
-### **Nightshade - Colour Theme**
+### Nightshade - Colour Theme
 
-A deep purple dark colour theme for VS Code.
+A dark colour theme for VS Code, deep purple backgrounds with tones of pink and teal.
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-theme-nightshade) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.nightshade-theme) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/nightshade-theme)
