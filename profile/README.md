@@ -29,9 +29,9 @@ A lightweight PHP based MCP server using PDO to help your AI agents interact wit
 ## VS Code Extensions
 
 All of my VS Code extensions are also published on Open VSX, so they can be installed in any editor that
-uses the Open VSX repository for extensions (Kiro, Cursor and some others that idk).
+uses the Open VSX repository for extensions (Kiro, Cursor and others).
 
-### Symfony Console Command Runner
+### Extension: Symfony Console Command Runner
 
 `ext install WinningSoftware.symfony-console-runner`
 
@@ -41,10 +41,10 @@ Can list and run commands locally (default) or using your Docker containers. Con
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-symfony-console-runner) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.symfony-console-runner) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/symfony-console-runner)
 
-### Nightshade - Colour Theme
+### Theme: Nightshade
 
 `ext install WinningSoftware.nightshade-theme`
 
-A dark colour theme for VS Code, deep purple backgrounds with tones of pink and teal.
+A dark colour theme for VS Code, a deep purple canvas with pink and teal accents.
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-theme-nightshade) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.nightshade-theme) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/nightshade-theme)
