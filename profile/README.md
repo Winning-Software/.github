@@ -20,7 +20,7 @@ A highly opinionated Symfony 8 scaffold, built with all of my favourite tools re
 
 ### Latte Helper
 
-A package enabling you to easily render Latte templates in Symfony applications. Provides an extension of the Symfony `AbstractController` class, providing useful features such as app and variable injection via render methods.
+A package enabling you to easily render Latte templates in Symfony applications. Provides an extension of the Symfony `AbstractController` class, providing useful features such as app and variable injection via render methods. Supports custom Latte extensions defined in `config/latte.php`.
 
 [View Repository](https://github.com/WinningSoftwareDev/latte-helper) | [Packagist](https://packagist.org/packages/winningsoftware/latte-helper)
 
