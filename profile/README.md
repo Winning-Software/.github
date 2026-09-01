@@ -37,7 +37,7 @@ uses the Open VSX repository for extensions (Kiro, Cursor and others).
 
 An extension that allows you to view all of your Symfony applications `bin/console` commands in a tree view within VS Code. Hover the commands to display a list of all available options, customise inputs and run the command, with output shown straight in your terminal.
 
-Can list and run commands locally (default) or using your Docker containers. Configurable per project in `./vscode/settings.json`.
+This extension can list and run commands locally (default) or using your Docker container. Configurable per project in `./vscode/settings.json`.
 
 [View Repository](https://github.com/WinningSoftwareDev/vscode-symfony-console-runner) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.symfony-console-runner) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/symfony-console-runner)
 
