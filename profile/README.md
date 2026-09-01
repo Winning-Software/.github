@@ -18,6 +18,12 @@ A highly opinionated Symfony 8 scaffold, built with all of my favourite tools re
 
 [View Repository](https://github.com/WinningSoftwareDev/hive) | [Packagist](https://packagist.org/packages/winningsoftware/hive)
 
+### Latte Helper
+
+A package enabling you to easily render Latte templates in Symfony applications. Provides an extension of the Symfony `AbstractController` class, providing useful features such as app and variable injection via render methods.
+
+[View Repository](https://github.com/WinningSoftwareDev/latte-helper) | [Packagist](https://packagist.org/packages/winningsoftware/latte-helper)
+
 ### MCP Server: Database Assistant
 
 A lightweight PHP based MCP server using PDO to help your AI agents interact with multiple databases. Uses STDIO and runs entirely on your system. Currently available as a global composer package.
