@@ -41,7 +41,7 @@ uses the Open VSX repository for extensions (Kiro, Cursor and others).
 
 `ext install WinningSoftware.burrow-db-client`
 
-A free database connection manager for VS Code. I was frustrated by the existing tools either enforcing a database name when creating a new connection (bad for working with multi-schema DB's), or enforcing an artificial connection limit, so I rolled my own.
+A free database connection manager for VS Code. I was frustrated by the existing tools either enforcing a database name when creating a new connection (bad for working with multi-schema DB's), or enforcing an artificial connection limit, so I rolled my own. Supports plain text connections as well as connections via SSH tunnel and TLS/SSL support.
 
 ![Burrow Preview](/images/burrow.png)
 
