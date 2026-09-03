@@ -37,6 +37,16 @@ A lightweight PHP based MCP server using PDO to help your AI agents interact wit
 All of my VS Code extensions are also published on Open VSX, so they can be installed in any editor that
 uses the Open VSX repository for extensions (Kiro, Cursor and others).
 
+### Extension: Burrow DB Client
+
+`ext install WinningSoftware.burrow-db-client`
+
+A free database connection manager for VS Code. I was frustrated by the existing tools either enforcing a database name when creating a new connection (bad for working with multi-schema DB's), or enforcing an artificial connection limit, so I rolled my own.
+
+![Burrow Preview](/images/burrow.png)
+
+[View Repository](https://github.com/WinningSoftwareDev/vscode-mysql-workbench) | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=WinningSoftware.burrow-db-client) | [Open VSX](https://open-vsx.org/extension/WinningSoftware/burrow-db-client)
+
 ### Extension: Symfony Console Command Runner
 
 `ext install WinningSoftware.symfony-console-runner`
